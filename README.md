@@ -11,6 +11,8 @@ How to Run This Project Follow these steps to run the AI-driven comic strip gene
 7. Run all the cells one by one or choose "Runtime" -> "Run all".
 8. When prompted, input your story and select a manga style as instructed.
 9. The AI will process your input and automatically generate a comic strip based on your story.
+
+
 Tips & Notes
 
 1. Recommended Browser: Use Google Chrome or Firefox for best compatibility with Google Colab.
